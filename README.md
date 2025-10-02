@@ -1,8 +1,8 @@
-<h1 align="left">Geldimyrat Gurbanguliyev</h1>
+<h1 align="left">Hi there </h1>
 
 ###
 
-<h6 align="left">A passionate Fullstack developer.</h6>
+<h6 align="left">⚡ Passionate Fullstack Engineer | Python & AI Enthusiast</h6>
 
 ###
 
